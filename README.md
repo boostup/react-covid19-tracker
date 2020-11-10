@@ -1,3 +1,5 @@
+[Live Demo](https://boostup-covid19-tracker.netlify.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
